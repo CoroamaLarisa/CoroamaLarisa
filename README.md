@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoroamaLarisa
 - 👀 I’m interested in OOP and AI 
-- 📫 How to reach me coroama.larisagabriela@yahoo.ro
+- 📫 How to reach me coroama.larisagabriela@gmail.com
 
 <!---
 CoroamaLarisa/CoroamaLarisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
